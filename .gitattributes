@@ -1,8 +1,10 @@
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
-* text=auto
-*.C linguist-language=C++
+*.c linguist-language=c++
+*.js linguist-language=c++
+*.css linguist-language=c++
+*.html linguist-language=c++
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
